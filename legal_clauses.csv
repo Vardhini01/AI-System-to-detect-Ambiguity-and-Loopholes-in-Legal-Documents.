@@ -1,0 +1,503 @@
+text,label,category
+"The Tenant shall pay a monthly rent of $1,500.00, due on the first day of each calendar month.",0,rental
+"The Employee's annual salary shall be $75,000, payable in bi-weekly installments.",0,employment
+"This agreement shall commence on January 1, 2026 and terminate on December 31, 2026.",0,rental
+"The Company shall provide 15 days of paid vacation per calendar year.",0,employment
+"Users must be at least 18 years of age to create an account on this platform.",0,tos
+"Personal data collected includes name, email address, phone number, and billing address.",0,privacy
+"The security deposit shall be $3,000, refundable within 30 days of lease termination.",0,rental
+"The Employee shall work 40 hours per week, Monday through Friday, from 9:00 AM to 5:00 PM.",0,employment
+"We use 256-bit AES encryption to protect all stored user data.",0,privacy
+"The subscription fee is $9.99 per month, billed on the date of initial signup.",0,tos
+"The Landlord shall maintain the structural integrity of the building including the roof, walls, and foundation.",0,rental
+"Health insurance coverage begins on the first day of the month following 60 days of employment.",0,employment
+"Users may cancel their subscription at any time through the account settings page.",0,tos
+"We retain personal data for a maximum of 24 months after account deletion.",0,privacy
+"The lease term is 12 months, beginning on March 1, 2026 and ending on February 28, 2027.",0,rental
+"The notice period for voluntary resignation is 30 calendar days.",0,employment
+"All payments are processed through Stripe and are subject to their security protocols.",0,tos
+"Users may request a complete copy of their personal data by emailing privacy@company.com.",0,privacy
+"The Tenant is permitted to have a maximum of two pets, each under 25 pounds.",0,rental
+"Overtime work beyond 40 hours per week shall be compensated at 1.5 times the regular hourly rate.",0,employment
+"The service is available in the United States, Canada, and the United Kingdom.",0,tos
+"We do not sell personal data to third-party advertisers.",0,privacy
+"Rent increases shall not exceed 3% per annum and require 60 days written notice.",0,rental
+"The probationary period is 90 days from the date of hire.",0,employment
+"Account passwords must be a minimum of 12 characters and include one uppercase letter and one number.",0,tos
+"Cookie consent must be provided before any non-essential cookies are placed on the user's device.",0,privacy
+"The Landlord shall provide 24 hours written notice before entering the premises for inspection.",0,rental
+"Severance pay shall equal two weeks of salary for each completed year of employment.",0,employment
+"Refunds for annual subscriptions are available within 14 days of purchase.",0,tos
+"Data breach notifications will be sent to affected users within 72 hours of discovery.",0,privacy
+"The Tenant shall not sublease the premises without prior written consent from the Landlord.",0,rental
+"The Employee is entitled to 12 weeks of unpaid family and medical leave per year under FMLA.",0,employment
+"The platform requires users to verify their email address before accessing premium features.",0,tos
+"Users located in the European Union are protected under GDPR regulations.",0,privacy
+"Maintenance requests must be submitted through the online portal and will be addressed within 48 hours.",0,rental
+"The non-compete clause applies within a 25-mile radius of the company's headquarters for 12 months after termination.",0,employment
+"Free trial accounts are limited to 14 days and do not require a credit card.",0,tos
+"We collect IP addresses and browser type solely for security and analytics purposes.",0,privacy
+"The Tenant is responsible for paying the electric, gas, and internet utility bills.",0,rental
+"Annual performance reviews are conducted in December and determine the following year's salary adjustment.",0,employment
+"Users are limited to one account per person and must use their legal name.",0,tos
+"Third-party data processors are contractually bound to the same privacy standards as the Company.",0,privacy
+"Late rent payments will incur a penalty of $50 if not received within 5 days of the due date.",0,rental
+"The Employee must return all company property, including laptop and ID badge, on the last day of employment.",0,employment
+"Dispute resolution shall be handled through binding arbitration in the State of Delaware.",0,tos
+"Parental controls allow guardians to restrict data collection for users under 16.",0,privacy
+"The Landlord shall provide functioning smoke detectors and carbon monoxide detectors in each unit.",0,rental
+"Travel expenses exceeding $100 require prior written approval from the department manager.",0,employment
+"Service downtime for scheduled maintenance will be communicated at least 7 days in advance via email.",0,tos
+"Users may delete their account and all associated data by submitting a written request.",0,privacy
+"The parking space assigned to Unit 4B is space number 22 in the underground garage.",0,rental
+"Employees are entitled to 10 paid public holidays per year as listed in the company handbook.",0,employment
+"The maximum file upload size is 50MB per file and 500MB total per account.",0,tos
+"Biometric data such as fingerprints or facial recognition data is never collected by this service.",0,privacy
+"The Tenant agrees to maintain renter's insurance with a minimum coverage of $100,000.",0,rental
+"Direct deposit of salary shall be made to the bank account specified by the Employee.",0,employment
+"Two-factor authentication is available and recommended for all user accounts.",0,tos
+"We publish a transparency report annually detailing all government data requests received.",0,privacy
+"The Landlord shall repaint the interior walls every 3 years at no cost to the Tenant.",0,rental
+"The Employee shall receive a one-time signing bonus of $5,000, payable within the first paycheck.",0,employment
+"Content uploaded by users must comply with the community guidelines listed at company.com/guidelines.",0,tos
+"Personal data is stored on servers located within the European Economic Area.",0,privacy
+"Quiet hours are from 10:00 PM to 7:00 AM daily, as specified in the building rules.",0,rental
+"The Employee is eligible for the company's 401(k) retirement plan after 6 months of continuous employment.",0,employment
+"The API rate limit is 1,000 requests per hour per API key.",0,tos
+"Users may opt out of marketing communications by clicking the unsubscribe link in any email.",0,privacy
+"The Tenant may terminate the lease early by providing 60 days written notice and paying a fee equal to two months rent.",0,rental
+"Work-from-home arrangements are available on Tuesdays and Thursdays with manager approval.",0,employment
+"Gift cards purchased on the platform do not expire and carry no maintenance fees.",0,tos
+"We conduct annual third-party security audits and publish the results on our website.",0,privacy
+"The Landlord is responsible for pest control treatments, conducted quarterly.",0,rental
+"Jury duty leave is paid for up to 10 business days per calendar year.",0,employment
+"Users retain full ownership of all content they upload to the platform.",0,tos
+"Data encryption in transit uses TLS 1.3 protocol for all communications.",0,privacy
+"The mailbox key and two front door keys will be provided at move-in at no additional charge.",0,rental
+"The Employee shall complete mandatory safety training within 30 days of hire.",0,employment
+"Account inactivity for more than 12 consecutive months will result in automatic account suspension.",0,tos
+"Log files are automatically deleted after 90 days.",0,privacy
+"The Tenant shall dispose of garbage in the designated bins located in the rear of the building.",0,rental
+"Bereavement leave of 5 paid days is granted for the death of an immediate family member.",0,employment
+"The platform supports English, Spanish, French, and German languages.",0,tos
+"Children under 13 are not permitted to use this service in compliance with COPPA.",0,privacy
+"The security deposit will accrue interest at a rate of 1.5% per annum.",0,rental
+"Stock options vest over a 4-year period with a 1-year cliff.",0,employment
+"Users may export their data in CSV or JSON format from the account settings page.",0,tos
+"Access logs recording who accessed personal data are maintained for 12 months.",0,privacy
+"Smoking is prohibited in all indoor areas of the rental property including balconies.",0,rental
+"The standard workweek begins on Monday at 12:00 AM and ends on Sunday at 11:59 PM.",0,employment
+"Customer support is available Monday through Friday from 9 AM to 6 PM Eastern Time via email and phone.",0,tos
+"We do not use personal data for automated decision-making or profiling without explicit consent.",0,privacy
+"The Tenant must provide 30 days written notice before vacating the premises at the end of the lease term.",0,rental
+"The Employee shall report directly to the Director of Engineering.",0,employment
+"Each user account includes 5GB of free cloud storage.",0,tos
+"Data portability requests will be fulfilled within 30 calendar days.",0,privacy
+"The Landlord shall replace all major appliances that are no longer functional due to normal wear and tear.",0,rental
+"Business expense reimbursements are processed within 14 business days of submission.",0,employment
+"Prices listed on the website include all applicable taxes unless otherwise stated.",0,tos
+"We use anonymized and aggregated data for internal research and product improvement.",0,privacy
+"The property address is 456 Oak Street, Apartment 7C, Springfield, IL 62704.",0,rental
+"The Employee's job title is Senior Software Engineer within the Product Development department.",0,employment
+"Users will be notified by email at least 30 days before any changes to the terms of service.",0,tos
+"Users have the right to restrict processing of their personal data under GDPR Article 18.",0,privacy
+"All common areas including the lobby, gym, and rooftop are accessible to tenants from 6 AM to 11 PM.",0,rental
+"Continuing education reimbursement is available up to $2,500 per calendar year with prior approval.",0,employment
+"The referral program awards $20 credit for each new user who completes their first purchase.",0,tos
+"Personal data shared with law enforcement requires a valid court order or subpoena.",0,privacy
+"The lease automatically renews on a month-to-month basis after the initial 12-month term unless either party gives 60 days notice.",0,rental
+"Disciplinary procedures follow a three-step process: verbal warning, written warning, and termination.",0,employment
+"Bulk pricing discounts are applied automatically for orders of 100 or more units.",0,tos
+"The Data Protection Officer can be contacted at dpo@company.com or by phone at 555-0100.",0,privacy
+"Fire extinguishers are located on each floor near the stairwell exits.",0,rental
+"The Employee is assigned to the Boston office located at 100 Main Street, Suite 300.",0,employment
+"All transactions are recorded and a digital receipt is emailed to the user within 24 hours.",0,tos
+"We do not transfer personal data outside the EEA without adequate safeguards in place.",0,privacy
+"The Tenant shall not alter the structure, plumbing, or electrical systems without written approval from the Landlord.",0,rental
+"Maternity leave consists of 12 weeks paid at 100% of base salary.",0,employment
+"Promotional offers cannot be combined with other discounts unless explicitly stated.",0,tos
+"Users may file a complaint with their local data protection authority if they believe their rights have been violated.",0,privacy
+"Laundry facilities are available in the basement and operate with quarters; each wash cycle costs $2.00.",0,rental
+"The Employee agrees to assign all intellectual property created during employment to the Company.",0,employment
+"SLA guarantees 99.9% uptime measured on a monthly basis.",0,tos
+"Session cookies expire when the browser is closed; persistent cookies expire after 30 days.",0,privacy
+"Water and sewer charges are included in the monthly rent.",0,rental
+"The probationary review meeting is scheduled for 90 days after the start date.",0,employment
+"Users must accept the updated terms of service to continue using the platform after changes take effect.",0,tos
+"Users have the right to object to the processing of their data for direct marketing purposes.",0,privacy
+"The Tenant shall keep the premises in a clean and habitable condition at all times.",0,rental
+"Paternity leave of 4 weeks at full pay is available within 6 months of the birth or adoption of a child.",0,employment
+"Orders placed before 2:00 PM EST ship the same business day.",0,tos
+"Personal data collected during a free trial is deleted within 30 days if the user does not convert to a paid account.",0,privacy
+"The Landlord provides a washer, dryer, refrigerator, oven, and dishwasher in each unit.",0,rental
+"Sick leave accrues at a rate of 1 day per month up to a maximum of 12 days per year.",0,employment
+"Enterprise customers receive a dedicated account manager and priority support with a 4-hour response time.",0,tos
+"We conduct privacy impact assessments before launching any new feature that processes personal data.",0,privacy
+"Guest parking is available in the visitor lot on a first-come, first-served basis and is limited to 24 hours.",0,rental
+"The company matches employee 401(k) contributions up to 4% of gross salary.",0,employment
+"Digital content purchases are non-refundable once the download has begun.",0,tos
+"We only collect the minimum amount of data necessary to provide the requested service.",0,privacy
+"The services shall be provided in a timely and satisfactory manner consistent with reasonable expectations.",1,tos
+"The Landlord may enter the premises as deemed necessary for maintenance purposes.",1,rental
+"The Employee's duties may be modified from time to time at the Company's discretion.",1,employment
+"We may share your personal information with selected partners to improve your experience.",1,privacy
+"The Company reserves the right to change the pricing structure at any time without notice.",1,tos
+"Reasonable wear and tear shall be acceptable, as determined by the Landlord.",1,rental
+"The Employee shall perform such duties as may be assigned by management from time to time.",1,employment
+"Personal data may be transferred to other jurisdictions as the Company sees fit.",1,privacy
+"Refunds will be processed within a reasonable timeframe after the request is approved.",1,tos
+"The Tenant shall maintain the property in good condition, subject to the Landlord's satisfaction.",1,rental
+"The Company may terminate employment at any time, with or without cause, at its sole discretion.",1,employment
+"We may use your data for various purposes including but not limited to service improvement and marketing.",1,privacy
+"Certain features may require additional fees, which will be communicated as appropriate.",1,tos
+"The Landlord shall make repairs within a reasonable time after receiving notice from the Tenant.",1,rental
+"Compensation adjustments may be made periodically based on performance and other relevant factors.",1,employment
+"Third parties may access your information when reasonably necessary for business operations.",1,privacy
+"The Company may modify these terms at its discretion, and continued use constitutes acceptance.",1,tos
+"The Tenant may be required to vacate under certain circumstances as determined by the Landlord.",1,rental
+"Working hours may be adjusted as needed to meet business requirements.",1,employment
+"We may retain your data for as long as necessary to fulfill our legitimate business interests.",1,privacy
+"The Company shall provide adequate support to resolve user issues in a timely fashion.",1,tos
+"The security deposit may be partially or fully withheld for damages beyond normal use.",1,rental
+"Benefits may be modified or discontinued at the Company's discretion at any time.",1,employment
+"Your information may be shared with affiliates and partners for purposes we deem appropriate.",1,privacy
+"Service availability may vary and the Company does not guarantee uninterrupted access.",1,tos
+"The Landlord reserves the right to establish and modify building rules as circumstances warrant.",1,rental
+"The Employee may be required to travel as necessary for business purposes.",1,employment
+"We may update this privacy policy periodically and will make reasonable efforts to notify users.",1,privacy
+"The platform may use automated systems to analyze user content for various purposes.",1,tos
+"The Tenant shall be responsible for any damages caused to the property, as reasonably determined by the Landlord.",1,rental
+"Promotion and advancement opportunities will be provided based on merit and other considerations.",1,employment
+"We take reasonable steps to protect your data but cannot guarantee absolute security.",1,privacy
+"User accounts may be suspended or terminated if the Company believes a violation has occurred.",1,tos
+"Noise levels shall be maintained at an acceptable level as determined by building management.",1,rental
+"The non-compete restrictions shall apply for a reasonable period following termination.",1,employment
+"Data collected may be used for research purposes and shared in aggregated or other forms.",1,privacy
+"The Company shall use best efforts to deliver products within the estimated timeframe.",1,tos
+"Pest control measures will be taken as appropriate at the Landlord's discretion.",1,rental
+"The Employee should generally be available during core business hours and at other times as needed.",1,employment
+"We may collect additional information from time to time as our services evolve.",1,privacy
+"Liability for service disruptions shall be limited to a reasonable extent as determined by the Company.",1,tos
+"Subletting may be permitted under certain conditions subject to the Landlord's approval.",1,rental
+"The Company reserves the right to reassign the Employee to a different role or location as business needs require.",1,employment
+"Your consent to data processing may be implied through continued use of our services.",1,privacy
+"The warranty covers defects in materials and workmanship under normal use conditions and reasonable circumstances.",1,tos
+"Rent adjustments may be made periodically to reflect market conditions and other relevant factors.",1,rental
+"Confidential information shall include such information as the Company may designate from time to time.",1,employment
+"We may disclose your information when we believe in good faith that disclosure is necessary.",1,privacy
+"Premium features may be added or removed at the Company's discretion without prior notice.",1,tos
+"The Landlord may restrict certain activities in common areas as deemed necessary.",1,rental
+"The Employee shall devote substantially all working time to Company business.",1,employment
+"Personal data may be processed by third-party service providers in various jurisdictions.",1,privacy
+"The Company may limit, suspend, or discontinue any aspect of the service at any time.",1,tos
+"The Tenant agrees to comply with all rules and regulations that may be established by the Landlord.",1,rental
+"Salary reviews will take into account various factors including but not limited to performance and market conditions.",1,employment
+"We reserve the right to modify how we collect, use, and share your personal information.",1,privacy
+"Technical support will be provided on a best-effort basis during normal business hours.",1,tos
+"The Landlord may withhold consent to modifications for any reason it considers appropriate.",1,rental
+"Relocation assistance may be provided at the Company's discretion based on business needs.",1,employment
+"Certain third parties may have access to your data as part of our normal business operations.",1,privacy
+"Users agree to indemnify and hold harmless the Company from any claims arising from their use of the service.",1,tos
+"The Landlord shall not be liable for any inconvenience or disruption caused by necessary building improvements.",1,rental
+"The intellectual property provisions shall survive termination for such period as may be appropriate.",1,employment
+"We may use cookies and similar technologies for various purposes including those we consider beneficial.",1,privacy
+"Content may be removed if the Company determines, in its sole judgment, that it violates our policies.",1,tos
+"Parking availability is subject to change and the Landlord reserves the right to modify arrangements as needed.",1,rental
+"The Employee acknowledges that the Company may monitor workplace communications to the extent permitted by law.",1,employment
+"Your data may be used to personalize your experience in ways we believe are relevant to you.",1,privacy
+"The Company may assign its rights and obligations under this agreement without user consent.",1,tos
+"The Tenant shall be liable for any repairs necessitated by misuse, as determined by the Landlord.",1,rental
+"Bonus payments are discretionary and subject to various conditions as determined by management.",1,employment
+"We may share anonymized data with third parties for purposes including but not limited to research and analytics.",1,privacy
+"Service level commitments are targets only and the Company shall not be liable for failure to meet them.",1,tos
+"Common area maintenance schedules may be adjusted at the Landlord's discretion.",1,rental
+"Termination benefits may be provided at the Company's sole discretion and subject to applicable conditions.",1,employment
+"We make reasonable efforts to ensure data accuracy but are not responsible for errors in user-provided information.",1,privacy
+"The Company may send promotional communications that it believes may be of interest to users.",1,tos
+"The Landlord reserves the right to charge additional fees for services as may be necessary.",1,rental
+"The Employee shall comply with all Company policies, as may be amended from time to time.",1,employment
+"Third-party links on our platform may have their own privacy practices for which we are not responsible.",1,privacy
+"Force majeure events include but are not limited to natural disasters, war, and other circumstances beyond reasonable control.",1,tos
+"Guest policies may be modified by building management at any time as circumstances require.",1,rental
+"Non-disclosure obligations shall remain in effect for a reasonable period after employment ends.",1,employment
+"We may collect information about your device, usage patterns, and other data as we determine appropriate.",1,privacy
+"The Company's total liability shall not exceed the amount paid by the user in the preceding period, or such other amount as may be appropriate.",1,tos
+"The Landlord may temporarily restrict access to certain amenities for maintenance or other reasons.",1,rental
+"Professional development opportunities will be made available as the Company deems appropriate.",1,employment
+"Your personal information may be used for purposes not specifically listed in this policy if we determine it is consistent with original collection purposes.",1,privacy
+"Dispute resolution procedures may be modified by the Company to better serve the interests of all parties.",1,tos
+"The Tenant acknowledges that the Landlord may need to access the unit from time to time for various purposes.",1,rental
+"The Employee's job responsibilities may evolve as the Company grows and business needs change.",1,employment
+"We employ commercially reasonable security measures to protect your data from unauthorized access.",1,privacy
+"The Company will make commercially reasonable efforts to resolve complaints in a timely manner.",1,tos
+"Late fees and penalties may apply at the Landlord's discretion for violations of lease terms.",1,rental
+"Performance expectations will be communicated and may be adjusted based on business conditions.",1,employment
+"We may retain certain information after account deletion as required by law or for legitimate business purposes.",1,privacy
+"Usage limits may apply to certain features and the Company reserves the right to modify these limits.",1,tos
+"The Landlord shall provide adequate notice before conducting major building renovation work.",1,rental
+"The Company may require the Employee to undergo training or certification as business needs dictate.",1,employment
+"Information collected through cookies may be used for purposes including analytics, advertising, and other functions.",1,privacy
+"The Company may change the arbitration venue or process at its discretion.",1,tos
+"Alterations to the premises may be approved or denied at the Landlord's sole discretion.",1,rental
+"Remote work arrangements may be modified or revoked based on business needs and performance considerations.",1,employment
+"We take appropriate measures to protect data during international transfers.",1,privacy
+"Beta features are provided as-is and may be discontinued at any time without liability.",1,tos
+"The Landlord may adjust utility charges to reflect actual costs and other relevant considerations.",1,rental
+"Garden leave may be imposed during the notice period at the Company's discretion.",1,employment
+"Your information may be used to conduct surveys and research that we believe will improve our services.",1,privacy
+"Users acknowledge that the service may contain errors and the Company shall not be liable for any resulting damages.",1,tos
+"Renovation and improvement costs may be partially passed on to tenants as the Landlord determines fair.",1,rental
+"The Company reserves the right to modify the Employee's reporting structure as organizational needs require.",1,employment
+"We may update our data processing practices and will take reasonable steps to inform users of material changes.",1,privacy
+"The Company reserves the right to terminate inactive accounts after what it considers a reasonable period of inactivity.",1,tos
+"The Landlord may require the Tenant to obtain additional insurance coverage as deemed appropriate.",1,rental
+"Expense approval thresholds may be adjusted by management at any time.",1,employment
+"Personal data processing activities are reviewed periodically and updated as we consider necessary.",1,privacy
+"Auto-renewal terms may be modified, and the Company will use reasonable efforts to communicate changes.",1,tos
+"Move-out inspection standards will be applied as the Landlord considers fair and reasonable.",1,rental
+"Flexible working arrangements are available subject to approval and may be withdrawn if business needs change.",1,employment
+"We may share data with government authorities when we determine it is appropriate to do so.",1,privacy
+"Community guidelines may be updated from time to time and users are expected to comply with the most current version.",1,tos
+"Emergency maintenance may be conducted without prior notice as the Landlord deems necessary.",1,rental
+"Commission structures may be revised periodically based on business performance and market conditions.",1,employment
+"Data retention periods are determined based on legal requirements and what we consider reasonable business needs.",1,privacy
+"The Tenant shall not use the premises for any commercial purpose.",0,rental
+"The Employee is entitled to a company-issued laptop for work purposes only.",0,employment
+"Users may not share or transfer their account credentials to any other person.",0,tos
+"Personal data is encrypted both at rest and in transit using industry-standard encryption methods.",0,privacy
+"The monthly rent of $2,100 includes water, sewer, and trash services.",0,rental
+"The Employee must submit expense reports within 14 days of incurring the expense.",0,employment
+"Accounts inactive for more than 365 days will be permanently deleted along with all associated data.",0,tos
+"We use multi-factor authentication to protect administrative access to user data.",0,privacy
+"The lease may be terminated by either party with 90 days written notice delivered via certified mail.",0,rental
+"The Employee is eligible for a performance bonus of up to 15% of annual salary based on meeting stated objectives.",0,employment
+"All user-generated content must comply with applicable copyright laws.",0,tos
+"Marketing emails are sent no more than twice per week and users may opt out at any time.",0,privacy
+"The Tenant must obtain written consent from the Landlord before installing satellite dishes or antennas.",0,rental
+"Paid time off accrues at 1.5 days per month for the first two years of employment.",0,employment
+"Payments are processed in US dollars and converted at the prevailing exchange rate.",0,tos
+"User data backups are performed daily and stored in geographically separate data centers.",0,privacy
+"The Landlord shall provide one covered parking space per unit at no additional charge.",0,rental
+"The Employee shall receive a company mobile phone with a monthly plan paid by the Company.",0,employment
+"The minimum age to create an account is 16 years in the European Union and 13 years in the United States.",0,tos
+"We do not use facial recognition technology in any of our products or services.",0,privacy
+"Garbage collection occurs on Mondays and Thursdays between 7 AM and 9 AM.",0,rental
+"The standard probationary period for all new hires is 90 calendar days.",0,employment
+"Group discounts of 20% are available for teams of 10 or more users.",0,tos
+"All personal data processing activities are documented in our Records of Processing Activities register.",0,privacy
+"The Tenant shall not make any structural modifications to the premises without prior written consent.",0,rental
+"The Employee will be reimbursed for mileage at a rate of $0.655 per mile for business travel.",0,employment
+"Educational institution accounts receive a 50% discount on all subscription plans.",0,tos
+"We delete all personal data within 30 days of receiving a verified deletion request.",0,privacy
+"The Landlord provides 24-hour emergency maintenance via the phone number listed in the lease agreement.",0,rental
+"New employees receive three days of paid orientation training during their first week.",0,employment
+"Service credits equal to 10% of monthly fees are issued for each hour of unplanned downtime.",0,tos
+"Users can view a complete history of all data access events through their account dashboard.",0,privacy
+"Move-in inspection must be completed jointly by Landlord and Tenant within 3 days of move-in.",0,rental
+"The company provides life insurance coverage equal to two times the Employee's annual salary.",0,employment
+"Free accounts are limited to 100 API calls per day and 1GB of storage.",0,tos
+"Users are notified by email within 24 hours if their account is accessed from a new device.",0,privacy
+"The Tenant shall maintain the lawn and landscaping in the front and back yards.",0,rental
+"Employees working night shifts receive a 10% shift differential on their base hourly rate.",0,employment
+"The cancellation policy requires 48 hours notice for a full refund of scheduled services.",0,tos
+"We comply with the California Consumer Privacy Act for all California residents.",0,privacy
+"Rent is payable by electronic transfer to the account specified in Schedule A of this lease.",0,rental
+"The Employee is entitled to two 15-minute breaks and one 30-minute lunch break per 8-hour shift.",0,employment
+"Platform notifications can be customized through the notification settings panel.",0,tos
+"A designated privacy team reviews all data requests within 5 business days.",0,privacy
+"Pool hours are from 8 AM to 10 PM daily, and children under 12 must be accompanied by an adult.",0,rental
+"Annual salary increases are effective April 1st and based on the published pay scale.",0,employment
+"Users can download a machine-readable copy of all their data within 48 hours of request.",0,tos
+"Data processing impact assessments are conducted before any new data collection initiative.",0,privacy
+"Bicycle storage is available in the basement, limited to one bicycle per unit.",0,rental
+"Tuition reimbursement covers up to $5,250 per year for job-related courses at accredited institutions.",0,employment
+"Trial accounts automatically convert to free accounts after 30 days if no payment method is added.",0,tos
+"All employees with access to personal data complete annual privacy training.",0,privacy
+"Common area Wi-Fi is available in the lobby and rooftop with the password provided at check-in.",0,rental
+"Dental insurance covers preventive care at 100% and major procedures at 50% after deductible.",0,employment
+"Users may share content to external platforms only through the designated sharing feature.",0,tos
+"Privacy policy changes are archived and previous versions remain accessible on our website.",0,privacy
+"The property manager can be reached at 555-0123 during office hours of 9 AM to 5 PM weekdays.",0,rental
+"Vision insurance includes one eye exam and one pair of glasses or contacts per year.",0,employment
+"The platform performs automatic backups of user content every 6 hours.",0,tos
+"We provide a self-service privacy dashboard where users can manage all consent preferences.",0,privacy
+"The Tenant must notify the Landlord within 24 hours of discovering any water damage or plumbing issues.",0,rental
+"Short-term disability coverage provides 60% of base salary for up to 26 weeks.",0,employment
+"Commercial use of the API requires a separate enterprise license agreement.",0,tos
+"All sub-processors handling personal data are listed publicly on our website.",0,privacy
+"HVAC filter replacement is the Landlord's responsibility and is performed every 90 days.",0,rental
+"Company holidays include New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, and Christmas Day.",0,employment
+"Users in violation of terms will receive a written warning before any account suspension.",0,tos
+"Personal data is pseudonymized before being used for analytics or statistical purposes.",0,privacy
+"The Tenant agrees to pay a non-refundable application fee of $50.",0,rental
+"The starting salary for the position is $68,000 per year.",0,employment
+"Monthly subscription charges appear on statements as LEGALTECH-SVC.",0,tos
+"We conduct background checks on all employees who have access to personal data.",0,privacy
+"The Landlord shall maintain a master key and the Tenant shall not change locks without written permission.",0,rental
+"The Employee is expected to attend all scheduled team meetings unless on approved leave.",0,employment
+"Affiliate program participants receive a 15% commission on referred sales for 12 months.",0,tos
+"Data subject access requests must be acknowledged within 3 business days and fulfilled within 30.",0,privacy
+"Package deliveries may be left at the front desk and must be collected within 48 hours.",0,rental
+"Long-term disability coverage begins after 180 days of continuous disability at 50% of base salary.",0,employment
+"Minimum purchase amount for free shipping is $50 within the continental United States.",0,tos
+"We do not sell or rent personal data to any third party for marketing purposes.",0,privacy
+"Elevator maintenance is scheduled for the first Tuesday of each month from 9 AM to 12 PM.",0,rental
+"The Employee is authorized to work in the United States and has provided valid I-9 documentation.",0,employment
+"Accessibility features comply with WCAG 2.1 Level AA standards.",0,tos
+"Users can request human review of any automated decision that significantly affects them.",0,privacy
+"The Tenant shall ensure that guests comply with all building rules during their visit.",0,rental
+"Military leave is granted in accordance with the Uniformed Services Employment and Reemployment Rights Act.",0,employment
+"The maximum number of concurrent sessions per account is 5.",0,tos
+"All personal data transmitted between our servers is encrypted using TLS 1.3.",0,privacy
+"The Company may, at its sole discretion, alter any benefits or perks without providing justification.",1,employment
+"We reserve the right to use your content in promotional materials and other contexts as we see fit.",1,tos
+"The Tenant's obligations may be expanded at the Landlord's reasonable discretion.",1,rental
+"Personal data may be processed for additional purposes that we consider compatible with the original purpose.",1,privacy
+"Working conditions including office location may change based on what the Company considers operational requirements.",1,employment
+"The Company reserves the right to modify the service without notice if it determines changes are beneficial.",1,tos
+"The Landlord may increase rent by an amount it considers reflective of improvements to the property.",1,rental
+"We may share your data with business partners who we believe offer services you might find valuable.",1,privacy
+"The Employee agrees to accept reasonable additional responsibilities as the business evolves.",1,employment
+"Certain content restrictions may apply based on what the Company considers community standards.",1,tos
+"The Tenant shall not engage in activities that the Landlord considers disruptive to other residents.",1,rental
+"We may retain and use your feedback, suggestions, and ideas without any obligation to you.",1,privacy
+"Severance terms will be determined by the Company based on relevant circumstances at the time of termination.",1,employment
+"We may update our pricing to reflect what we consider fair market value for our services.",1,tos
+"The Landlord may restrict pet ownership or modify pet policies as building needs change.",1,rental
+"Your data may be used in ways that are materially different from those described at the time of collection if we update this policy.",1,privacy
+"The Company may modify the Employee's compensation package to align with what it considers market conditions.",1,employment
+"Warranties are limited to what the Company considers reasonable for the type of product or service provided.",1,tos
+"Lease renewal terms may differ from the original lease as the Landlord determines appropriate.",1,rental
+"We may engage new sub-processors and will make reasonable efforts to ensure they meet our standards.",1,privacy
+"The Employee may be placed on a performance improvement plan at the Company's discretion for performance it deems unsatisfactory.",1,employment
+"Account features may be modified, limited, or removed based on what the Company considers necessary for service quality.",1,tos
+"The Landlord may designate or modify quiet hours and enforce them as it sees fit.",1,rental
+"We may use tracking technologies that we believe enhance user experience and service functionality.",1,privacy
+"Intellectual property ownership for work created outside business hours may be claimed by the Company in certain circumstances.",1,employment
+"The Company may restrict access to portions of the service that it considers premium or exclusive.",1,tos
+"The Landlord may assess fees for services or violations as it determines appropriate.",1,rental
+"We may collect data from third-party sources that we consider reliable.",1,privacy
+"Non-compete geographic scope shall extend to areas the Company considers its competitive market.",1,employment
+"User data may be used for training AI models and other purposes the Company deems beneficial.",1,tos
+"The Landlord may require the Tenant to make improvements that it considers necessary to maintain property standards.",1,rental
+"Personal data processing legal basis may vary depending on what we consider most appropriate for each activity.",1,privacy
+"The Company may require the Employee to sign additional agreements as it considers necessary.",1,employment
+"Liability caps may be adjusted by the Company to reflect what it considers appropriate risk allocation.",1,tos
+"Building access policies may change based on security concerns the Landlord considers relevant.",1,rental
+"We may monitor user behavior to the extent we consider necessary for platform safety.",1,privacy
+"Post-employment restrictions may be enforced to the extent the Company deems necessary to protect its interests.",1,employment
+"The Company reserves the right to determine what constitutes acceptable use of the platform.",1,tos
+"The Landlord may reassign parking spaces as it deems necessary for efficient property management.",1,rental
+"We may combine your data with information from other sources in ways we consider appropriate.",1,privacy
+"Remote work equipment provided by the Company must be returned in what the Company considers acceptable condition.",1,employment
+"Content moderation decisions are final and made at the Company's sole discretion.",1,tos
+"The Landlord reserves the right to approve or deny any guest staying longer than what it considers a reasonable visit.",1,rental
+"We may change data storage locations to jurisdictions we deem adequate for data protection.",1,privacy
+"Intellectual property assignment includes any work the Company reasonably believes was created using company resources.",1,employment
+"The Company may change payment processors and terms with what it considers reasonable notice.",1,tos
+"Common area usage policies may be updated as the Landlord considers necessary for resident welfare.",1,rental
+"We may anonymize and use your data indefinitely for purposes we consider consistent with our business objectives.",1,privacy
+"The Employee's access to confidential information will be determined by what management considers appropriate for their role.",1,employment
+"Subscription auto-renewal prices may differ from the original price based on what the Company considers current market rates.",1,tos
+"The Landlord may modify amenity availability and hours as it deems necessary for maintenance or operational reasons.",1,rental
+"We may share aggregated data that we believe does not personally identify you with any third party.",1,privacy
+"Garden leave during notice period may include restrictions the Company considers necessary to protect its business.",1,employment
+"The Company may impose usage quotas that it considers fair and reasonable for each plan tier.",1,tos
+"The Landlord reserves the right to change move-in and move-out procedures as it considers practical.",1,rental
+"Data processing for secondary purposes may occur when we determine there is a legitimate interest.",1,privacy
+"The Company may withhold final pay pending return of company property in what it considers acceptable condition.",1,employment
+"Promotional pricing terms may be modified based on what the Company considers sustainable business practices.",1,tos
+"The Landlord may require additional deposits for what it considers high-risk situations.",1,rental
+"We may process sensitive personal data when we determine it is necessary for legal compliance or vital interests.",1,privacy
+"Notice of policy changes will be provided through channels the Company considers effective.",1,employment
+"The Company may refuse service to users it considers in violation of any applicable terms.",1,tos
+"Maintenance priorities will be set based on what the Landlord considers urgent versus routine.",1,rental
+"We may transfer your data in connection with a business transaction we consider in the best interest of our users.",1,privacy
+"Performance metrics and evaluation criteria may be adjusted as the Company considers necessary for business alignment.",1,employment
+"The Company may impose geographic restrictions on service availability as it deems appropriate.",1,tos
+"The Landlord may modify shared storage space allocation as building occupancy and needs change.",1,rental
+"We may provide your data to regulatory authorities when we consider it necessary for compliance.",1,privacy
+"Mandatory overtime may be required during periods the Company considers critical for business operations.",1,employment
+"The Company may discontinue features that it determines are no longer viable or beneficial.",1,tos
+"The Landlord may implement new building policies that it considers necessary for safety and security.",1,rental
+"We may change our data breach notification procedures based on what we consider best practices at the time.",1,privacy
+"Workplace safety standards will be maintained at levels the Company considers compliant with applicable regulations.",1,employment
+"User-generated content licenses granted to the Company may survive account termination for purposes the Company deems necessary.",1,tos
+"The Landlord may adjust shared utility costs to reflect what it considers each unit's fair share.",1,rental
+"We may revise consent mechanisms to align with what we consider current regulatory expectations.",1,privacy
+"Training and development opportunities will be allocated based on what management considers the greatest business need.",1,employment
+"Refund eligibility may be determined at the Company's discretion based on circumstances it considers relevant.",1,tos
+"The Landlord may modify landscaping and exterior appearance as it considers appropriate for property value.",1,rental
+"We may process your data for automated profiling when we believe it provides meaningful benefits to the user experience.",1,privacy
+"Workplace flexibility policies may be revised based on what the Company considers productive working arrangements.",1,employment
+"The Company reserves the right to verify user identities through methods it considers reliable and appropriate.",1,tos
+"Tenant improvement requests will be considered and approved or denied at the Landlord's sole discretion.",1,rental
+"Data minimization principles are applied to the extent we consider practical for our business operations.",1,privacy
+"The Tenant agrees to a maximum occupancy of 4 persons in the two-bedroom unit.",0,rental
+"Background checks are conducted through Sterling and results are shared only with the hiring manager.",0,employment
+"Two-factor authentication uses time-based one-time passwords (TOTP) compliant with RFC 6238.",0,tos
+"Right to erasure requests are processed within 15 business days and confirmed via email.",0,privacy
+"The Landlord shall replace the water heater if it fails within the first 5 years of installation.",0,rental
+"Employees must log all working hours through the company's designated time-tracking system daily.",0,employment
+"Nonprofit organizations qualify for a permanent 30% discount on all subscription tiers.",0,tos
+"We only process biometric data with explicit written consent obtained separately from general terms.",0,privacy
+"The property is zoned for residential use and the Tenant shall not conduct any business on the premises.",0,rental
+"The relocation package includes $10,000 for moving expenses and 30 days of temporary housing.",0,employment
+"Support tickets submitted through the help center receive an initial response within 8 business hours.",0,tos
+"Personal data breach notification includes the nature of the breach, data affected, and remedial actions taken.",0,privacy
+"Carpet cleaning at move-out must be performed by a professional cleaner and a receipt must be provided.",0,rental
+"The Employee's annual leave balance carries over up to a maximum of 5 unused days per year.",0,employment
+"Student accounts require verification through a .edu email address and are limited to one per student.",0,tos
+"Cookies categorized as strictly necessary do not require user consent under applicable regulations.",0,privacy
+"The Landlord provides pest control service quarterly and additionally upon written request by the Tenant.",0,rental
+"Direct reports include up to 8 team members as specified in the organizational chart.",0,employment
+"API documentation is publicly available at docs.company.com and updated within 48 hours of any API change.",0,tos
+"We publish a complete list of all third-party data sub-processors on our trust center page.",0,privacy
+"Window coverings must be white or off-white on the exterior-facing side.",0,rental
+"The Employee shall receive a home office stipend of $75 per month for remote work expenses.",0,employment
+"Bulk data export requests over 10GB may take up to 5 business days to process.",0,tos
+"Privacy impact assessments are reviewed and signed off by the Data Protection Officer before implementation.",0,privacy
+"The Company may use your likeness and testimonials in any medium it considers appropriate for promotional purposes.",1,tos
+"The Landlord may enter the premises without notice in situations it considers emergencies.",1,rental
+"The Company reserves the right to claw back bonuses under circumstances it deems warranted.",1,employment
+"We may infer additional personal data from your usage patterns as we see fit.",1,privacy
+"The Employee's right to inventions may be limited in ways the Company considers necessary to protect trade secrets.",1,employment
+"Content removal appeals will be reviewed in a timeframe the Company considers practical.",1,tos
+"Utility billing adjustments may be made retroactively for periods the Landlord considers incorrectly billed.",1,rental
+"We may share your location data with partners we consider relevant to your geographic area.",1,privacy
+"Termination procedures may be expedited in situations the Company considers gross misconduct.",1,employment
+"The Company may limit customer support availability to levels it considers sustainable.",1,tos
+"The Landlord may dispose of items left behind after a period it considers reasonable.",1,rental
+"Consent withdrawal may not apply to processing the Company considers necessary for legal obligations.",1,privacy
+"Drug and alcohol testing may be conducted at times and under circumstances management considers appropriate.",1,employment
+"The Company reserves the right to conduct audits of user accounts in a manner it deems necessary.",1,tos
+"The Landlord may charge administrative fees for lease modifications at rates it considers fair.",1,rental
+"We may process your data for fraud prevention using methods we determine appropriate.",1,privacy
+"References provided after employment will include information the Company considers relevant to the inquiry.",1,employment
+"Feature availability may differ across regions based on what the Company considers local market requirements.",1,tos
+"The Landlord may restrict deliveries to hours it considers appropriate for building operations.",1,rental
+"We may contact you through channels we consider most effective for the type of communication.",1,privacy
+"The Employee may be required to sign restrictive covenants that the Company deems appropriate during employment.",1,employment
+"Technical requirements may change and the Company is not liable for issues arising from changes it considers necessary.",1,tos
+"Parking fees may be introduced or modified based on costs the Landlord considers reasonable to pass on.",1,rental
+"We may create aggregated profiles using your data combined with third-party data we consider reliable.",1,privacy
+"Workplace surveillance may be conducted through means the Company considers appropriate for security.",1,employment
+"Beta program participation terms may be modified at the Company's discretion based on program needs.",1,tos
+"Building renovations may temporarily affect amenity access for periods the Landlord considers necessary.",1,rental
+"We may change our approach to data anonymization based on techniques we consider sufficiently protective.",1,privacy
+"Exit interview participation is expected and may influence references in ways the Company considers appropriate.",1,employment
+"Account verification requirements may increase based on risk levels the Company determines applicable.",1,tos
+"The Landlord may modify recycling and waste disposal rules as it considers necessary for compliance.",1,rental
+"We may extend data retention for accounts involved in matters we consider unresolved.",1,privacy
+"The Company reserves the right to define what constitutes a conflict of interest.",1,employment
+"Service region expansions or contractions will be made based on what the Company considers viable markets.",1,tos
+"The Landlord may update security systems and access methods as it considers necessary for tenant safety.",1,rental
+"We may process your data for purposes we determine are compatible with those described in this privacy notice.",1,privacy
+"On-call requirements may be assigned based on what management considers equitable rotation.",1,employment
+"Marketplace seller fees may be adjusted to reflect what the Company considers fair commission structures.",1,tos
+"Common area decoration policies may be changed for seasons or events the Landlord considers appropriate.",1,rental
+"We may revise our cookie categories based on what we determine constitutes essential functionality.",1,privacy
+"Dress code standards will be enforced at levels management considers professional for the workplace.",1,employment
+"Data portability formats may be changed to what the Company considers the most practical standard.",1,tos
+"The Landlord may alter guest registration requirements based on security needs it identifies.",1,rental
+"We may update our privacy practices to reflect what we consider emerging industry standards.",1,privacy

@@ -1,0 +1,28 @@
+clause_id,text,rule_based_score,ml_confidence,combined_score,risk_level,issues_count
+8.2,"The Company may forthwith, without prior notice and without prejudice to its other",77.78,0.9940768800401544,86.43,high,3
+9.1,The Employee agrees that he shall be privy to Confidential Information fro m time to,66.67,0.8313709382109626,73.26,high,2
+9.4,This Clause shall survive termination to the extent of any Confidential Informatio n,66.67,0.8194506736689419,72.78,high,2
+9.3,"All rights, title and interest in and to the Confidential Information shall rem ain the",66.67,0.7182239002460595,68.73,medium,1
+7.1,The Employee represents and warrants to the Company that he is not bound by any,66.67,0.7129394443007468,68.52,medium,1
+10.1,The Employee represents and warrants to the Company that he is not bound by any,66.67,0.7129394443007468,68.52,medium,1
+8.5,"Notwithstanding the termination of this Agreement, Clause 9 (Confidentiality), Clause",100.0,0.8206980906433524,67.17,medium,1
+8.3,"The Employee shall, upon termination of this Agreement at any time:",83.33,0.8297408293974078,56.81,medium,2
+6.1,This Agreement contains the entire understanding of the Employee and the Company,66.67,0.6628404802145894,53.49,medium,1
+8.1,"Subject to Clause 1A, this Agreement may be terminated, either:",66.67,0.7331861806058885,50.67,medium,1
+2.6,The Employee further acknowledges that each of the restrictions contained above in,66.67,0.8297452361278509,46.81,medium,1
+2.1,The Employee shall fulfil such general duties and responsibilities as are consistent with,66.67,0.8390989798171206,46.44,medium,1
+2.3,The Employee agrees that he shall not participate in any activity that constitutes an,66.67,0.8444952283987792,46.22,medium,1
+6.2,"This Agreement shall be subject to the provisions of the Memorandum of Association,",66.67,0.8788235778984848,44.85,medium,1
+2.4,"The Employee agrees to abide by the rules, regulations, instructions, personnel",66.67,0.9625547529286412,41.5,medium,1
+9.2,"The Employee shall not, except in the proper performance of his duties, functions and",66.67,0.9786601394964014,40.86,medium,1
+2.2,"The Employee shall, during the Term:",66.67,0.9955899967985522,40.18,medium,1
+2.5,"The Employee shall not, during the Term:",66.67,0.9955899967985522,40.18,medium,1
+8.6,"Upon the termination of this Agreement, however caused, the Company shall cause to",0.0,0.9252405385615938,37.01,low,0
+i,References to statutes or any provisions thereof sh all be construed as references,0.0,0.5206782780957755,19.17,low,0
+c,"in any other case, shall mean a person controlled by a Party/Parties to this",0.0,0.7302187829602751,10.79,low,0
+8.4,"Termination of Employment for Disability . Subject to Clause 1A, during the Term, the",0.0,0.8500611443131116,6.0,low,0
+10.2,The indemnity contained in this Clause shall be governed exclusively by and con strued,0.0,0.8940901890258216,4.24,low,0
+v,Recitals shall form a part of this Agreement.,0.0,0.9709307737212499,1.16,low,0
+a,"being a corporate entity, shall mean any entity or person, which controls, is",0.0,0.9719236391548427,1.12,low,0
+b,"being an individual, shall mean any relative or any other entity or person, which",0.0,0.9719236391548427,1.12,low,0
+1.1,"In this Agreement, the following expressions shall, unless the context otherwise requires,",0.0,0.986103320781583,0.56,low,0

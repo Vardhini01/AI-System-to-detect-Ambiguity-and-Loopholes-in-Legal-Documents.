@@ -1,0 +1,16 @@
+clause_id,text,rule_based_score,ml_confidence,bert_score,context_classification,combined_score,risk_level,issues_count
+6,The Company reserves the right to modify these terms at any time without prior notice at its sole discretion.,93.33,0.9999999941483304,N/A,N/A,96.0,high,5
+1,The Company reserves the right to modify these terms at any time without prior notice.,91.67,0.9999999445605032,N/A,N/A,95.0,high,4
+7,Services shall be provided in a reasonably satisfactory manner and the Company shall not be liable for any inconvenience including but not limited to service disruptions.,75.0,0.999995608559812,N/A,N/A,85.0,high,4
+8,"Best efforts will be made to resolve issues promptly, and adequate notice may be given before material changes subject to change from time to time.",71.43,0.9959959256188187,N/A,N/A,82.7,high,7
+10,Compensation adjustments may be made periodically based on performance and other relevant factors.,66.67,0.9999998585764955,N/A,N/A,80.0,high,1
+11,The warranty covers defects under normal use conditions and reasonable circumstances.,66.67,0.9999997123055425,N/A,N/A,80.0,high,1
+9,The Landlord may enter the premises as deemed necessary for maintenance purposes.,66.67,0.9932818939692114,N/A,N/A,79.73,high,2
+2,Services will be provided in a timely and satisfactory manner.,66.67,0.9754172306330755,N/A,N/A,79.02,high,2
+4,Adequate notice shall be given before any material changes.,66.67,0.6170454489626552,N/A,N/A,55.32,medium,2
+3,"The Employee's annual salary shall be $75,000, payable in bi-weekly installments.",66.67,0.9997433691623043,N/A,N/A,40.01,medium,1
+12,"The Employee's annual salary shall be $75,000, payable in bi-weekly installments.",66.67,0.9997433691623043,N/A,N/A,40.01,medium,1
+14,Payment is due on the first day of each month.,0.0,0.9790308547696993,N/A,N/A,0.84,low,0
+15,"The contract term is 12 months starting from January 1, 2026.",0.0,0.9975596712307524,N/A,N/A,0.1,low,0
+5,"The subscription fee is $9.99 per month, billed on the date of initial signup.",0.0,0.9995914592114652,N/A,N/A,0.02,low,0
+13,"The subscription fee is $9.99 per month, billed on the date of initial signup.",0.0,0.9995914592114652,N/A,N/A,0.02,low,0
